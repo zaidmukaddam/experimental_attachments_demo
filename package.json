@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/anthropic": "^0.0.30",
+    "@ai-sdk/google": "^0.0.27",
+    "@ai-sdk/ui-utils": "^0.0.14",
+    "@tailwindcss/typography": "^0.5.13",
+    "ai": "^3.2.26",
+    "lucide-react": "^0.408.0",
+    "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-markdown": "^9.0.1"
   },
   "devDependencies": {
     "typescript": "^5",
